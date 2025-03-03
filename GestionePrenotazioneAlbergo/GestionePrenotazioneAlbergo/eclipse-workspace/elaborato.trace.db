@@ -1,0 +1,198 @@
+2022-06-16 13:16:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 13:17:55 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 13:28:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CLIENTE" not found (this database is empty); SQL statement:
+INSERT INTO CLIENTE VALUES (?,?,null,?,?,?,?); [42104-212]
+2022-06-16 14:27:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 14:27:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 14:53:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 14:53:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 15:03:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALBERGO" not found (this database is empty); SQL statement:
+SELECT * FROM ALBERGO WHERE COD_ALBERGO=? ; [42104-212]
+2022-06-16 15:52:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 15:52:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 15:52:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALBERGO" not found (this database is empty); SQL statement:
+SELECT * FROM ALBERGO WHERE COD_ALBERGO=? ; [42104-212]
+2022-06-16 16:47:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALBERGO" not found (this database is empty); SQL statement:
+SELECT * FROM ALBERGO WHERE COD_ALBERGO=? ; [42104-212]
+2022-06-16 16:51:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 16:55:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 16:58:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 18:24:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALBERGO" not found (this database is empty); SQL statement:
+SELECT * FROM ALBERGO WHERE COD_ALBERGO=? ; [42104-212]
+2022-06-16 18:26:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALBERGO" not found (this database is empty); SQL statement:
+SELECT * FROM ALBERGO WHERE CITTA=? ; [42104-212]
+2022-06-16 18:27:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALBERGO" not found (this database is empty); SQL statement:
+SELECT * FROM ALBERGO WHERE CITTA=FUERTEVENTURA ; [42104-212]
+2022-06-16 18:28:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALBERGO" not found (this database is empty); SQL statement:
+SELECT * FROM ALBERGO WHERE CITTA=fuerteventura ; [42104-212]
+2022-06-16 18:31:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALBERGO" not found (this database is empty); SQL statement:
+SELECT * FROM ALBERGO  ; [42104-212]
+2022-06-16 18:33:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALBERGO" not found (this database is empty); SQL statement:
+SELECT * FROM ALBERGO WHERE CITTA=? ; [42104-212]
+2022-06-16 18:35:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 18:38:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 18:39:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 18:39:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 18:40:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 18:40:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 18:42:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 18:43:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 18:46:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 18:46:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 18:46:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 19:13:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALBERGO" not found (this database is empty); SQL statement:
+SELECT * FROM ALBERGO WHERE CITTA=? ; [42104-212]
+2022-06-16 19:25:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 19:25:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 19:26:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 19:26:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 19:29:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-16 19:29:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-21 15:25:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALBERGO" not found (this database is empty); SQL statement:
+SELECT * FROM ALBERGO WHERE CITTA=?  [42104-212]
+2022-06-21 15:27:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALBERGO" not found (this database is empty); SQL statement:
+SELECT * FROM ALBERGO WHERE CITTA=?  [42104-212]
+2022-06-22 12:53:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-23 10:34:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-23 10:40:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-23 10:49:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-23 10:52:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-23 10:52:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-23 11:01:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-23 11:01:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-23 11:01:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-23 11:01:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-23 11:06:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-23 11:09:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-23 11:13:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-23 11:20:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-23 11:44:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-23 11:44:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-23 12:20:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-23 12:20:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALBERGO" not found (this database is empty); SQL statement:
+SELECT * FROM ALBERGO WHERE CITTA=?  [42104-212]
+2022-06-23 12:24:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALBERGO" not found (this database is empty); SQL statement:
+SELECT * FROM ALBERGO WHERE CITTA=?  [42104-212]
+2022-06-23 12:26:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-23 13:14:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-23 13:14:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRENOTAZIONE" not found (this database is empty); SQL statement:
+SELECT * FROM PRENOTAZIONE WHERE ID_PRENOTAZIONE=?; [42104-212]
+2022-06-23 13:15:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALBERGO" not found (this database is empty); SQL statement:
+SELECT * FROM ALBERGO WHERE CITTA=?  [42104-212]
+2022-06-23 13:22:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALBERGO" not found (this database is empty); SQL statement:
+SELECT * FROM ALBERGO WHERE CITTA=?  [42104-212]
+2022-06-23 13:23:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALBERGO" not found (this database is empty); SQL statement:
+SELECT * FROM ALBERGO WHERE CITTA=?  [42104-212]
